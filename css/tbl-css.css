@@ -16,7 +16,27 @@
 	width: 250px;
 	height: 250px;
 }
+#saturn
+{
+	background-size: 250px;
+	width: 250px;
+	height: 250px;
+}
+#mercury
+{
+	background-size: 250px;
+	width: 250px;
+	height: 250px;
+}
+#neptune
+{
+	background-size: 250px;
+	width: 250px;
+	height: 250px;
+}
 #tblfont
 {
 	font: 16px Georgia;
+	margin-top: 50px;
+	margin-left: 50px;
 }
