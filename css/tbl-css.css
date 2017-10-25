@@ -46,20 +46,20 @@
 }
 #tblfont
 {
-	font: 16px #E7DACB Georgia;
+	font: 16px Georgia;
 	margin-top: 50px;
 	margin-left: 50px;
 	margin-right: 130px;
-	border: 2px solid #000000;
+	border: 2px solid #E7DACB;
 	background-color: #000000;
 }
 #tblfont th
 {
 	font: 18px Georgia;
-	border: 2px solid #000000;
+	border: 2px solid #E7DACB;
 }
 #tblfont td
 {
 	font: 18px Georgia;
-	border: 2px solid #000000;
+	border: 2px solid #E7DACB;
 }
