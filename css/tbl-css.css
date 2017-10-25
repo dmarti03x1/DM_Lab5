@@ -10,6 +10,12 @@
 {
 	font: 18px Georgia;
 }
+#mars
+{
+	background-size: 250px;
+	width: 250px;
+	height: 250px;
+}
 #tblfont
 {
 	font: 16px Georgia;
