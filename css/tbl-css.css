@@ -1,0 +1,16 @@
+#fontbody h1
+{
+	font: 30px Georgia;
+}
+#fontbody h2
+{
+	font: 20px Georgia;
+}
+#fontbody p
+{
+	font: 18px Georgia;
+}
+#tblfont
+{
+	font: 16px Georgia;
+}
