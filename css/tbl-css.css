@@ -6,14 +6,19 @@
 #fontbody h1
 {
 	font: 30px Georgia;
+	margin-top: 50px;
+	margin-left: 50px;
 }
 #fontbody h2
 {
 	font: 20px Georgia;
+	margin-top: 50px;
+	margin-left: 50px;
 }
 #fontbody p
 {
 	font: 18px Georgia;
+	margin-left: 50px;
 }
 #mars
 {
