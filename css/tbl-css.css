@@ -51,23 +51,15 @@
 }
 #tblfont
 {
-	font: 16px Georgia;
 	margin-top: 50px;
 	margin-left: 50px;
-	margin-right: 130px;
-	border: 2px solid #E7DACB;
-	background-color: #000000;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	text-align: center;
 }
 #tblfont th
 {
-	font: 18px Georgia;
 	border: 2px solid #E7DACB;
-	height: 50px;
-	vertical-align: middle;
-}
-#tblfont td
-{
-	font: 18px Georgia;
-	border: 2px solid #E7DACB;
-	vertical-align: middle;
+	padding: 5px 20px;
+	font: 16px Georgia;
 }
