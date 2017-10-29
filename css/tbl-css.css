@@ -6,7 +6,7 @@
 #fontbody h1
 {
 	font: 30px Georgia;
-	margin-top: 50px;
+	margin-top: 30px;
 	margin-left: 50px;
 }
 #fontbody h2
@@ -62,9 +62,12 @@
 {
 	font: 18px Georgia;
 	border: 2px solid #E7DACB;
+	height: 50px;
+	vertical-align: middle;
 }
 #tblfont td
 {
 	font: 18px Georgia;
 	border: 2px solid #E7DACB;
+	vertical-align: middle;
 }
