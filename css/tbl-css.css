@@ -62,4 +62,12 @@
 	border: 2px solid #E7DACB;
 	padding: 5px 20px;
 	font: 16px Georgia;
+	font-weight: bold;
+}
+#tblfont td
+{
+	border: 2px solid #E7DACB;
+	padding: 5px 10px;
+	font: 16px Georgia;
+	font-weight: bold;
 }
