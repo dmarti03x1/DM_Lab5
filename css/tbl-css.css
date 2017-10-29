@@ -14,10 +14,16 @@
 	font: 30px Georgia;
 	margin-top: 50px;
 	margin-left: 50px;
+	margin-bottom: 20px;
 }
 #fontbody p
 {
 	font: 20px Georgia;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+#rock
+{
 	margin-left: 50px;
 }
 #mars
@@ -57,6 +63,7 @@
 	margin-bottom: 50px;
 	text-align: center;
 	background-color: #000000;
+	border-radius: 10px;
 }
 #tblfont th
 {
@@ -66,10 +73,14 @@
 	font-weight: bold;
 }
 #tblfont td
-{
+{	
 	border-bottom: 2px solid #E7DACB;
 	padding: 0px 5px;
 	font: 16px Georgia;
 	font-weight: bold;
-	
 }
+tr:hover
+{
+	 background-color: gold;
+}
+
