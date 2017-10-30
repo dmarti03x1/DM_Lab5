@@ -62,8 +62,8 @@
 	margin-right: 50px;
 	margin-bottom: 50px;
 	text-align: center;
-	background-color: #000000;
 	border-radius: 10px;
+	background-color: #000000;
 }
 #tblfont th
 {
@@ -81,6 +81,6 @@
 }
 tr:hover
 {
-	 background-color: gold;
+	 background-color: #03001C;
 }
 
