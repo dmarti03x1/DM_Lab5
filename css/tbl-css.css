@@ -99,6 +99,15 @@ tr:hover
 	margin-right: 400px;
 	white-space: pre;
 }
+#marsfaq:hover
+{
+	border-radius: 30px;
+	background-color: #170333;
+	margin-left: 50px;
+	margin-right: 125px;
+	margin-bottom: 50px;
+	transform: scale(1.05);
+}
 #saturnfaq
 {
 	border-radius: 30px;
@@ -107,6 +116,15 @@ tr:hover
 	margin-right: 400px;
 	white-space: pre;
 }
+#saturnfaq:hover
+{
+	border-radius: 30px;
+	background-color: #170333;
+	margin-left: 50px;
+	margin-right: 125px;
+	margin-bottom: 50px;
+	transform: scale(1.05);
+}
 #mercuryfaq
 {
 	border-radius: 30px;
@@ -114,6 +132,15 @@ tr:hover
 	margin-left: 200px;
 	margin-right: 400px;
 	white-space: pre;
+}
+#mercuryfaq:hover
+{
+	border-radius: 30px;
+	background-color: #170333;
+	margin-left: 50px;
+	margin-right: 125px;
+	margin-bottom: 50px;
+	transform: scale(1.05);
 }
 #neptunefaq
 {
