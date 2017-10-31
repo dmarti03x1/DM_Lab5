@@ -74,15 +74,18 @@
 {
 	border: 2px solid #E7DACB;
 	padding: 5px 20px;
-	font: 16px Georgia;
+	font: 18px Georgia;
 	font-weight: bold;
 }
 #tblfont td
 {	
 	border-bottom: 2px solid #E7DACB;
-	padding: 0px 5px;
-	font: 16px Georgia;
-	font-weight: bold;
+	font: 17px Georgia;
+}
+#tblfont sup
+{	
+	font-size: 70%;
+	vertical-align: super;
 }
 tr:hover
 {
@@ -103,5 +106,21 @@ tr:hover
 	margin-left: 50px;
 	margin-right: 125px;
 	
+}
+#mercuryfaq
+{
+	border-radius: 30px;
+	background-color: #7B2A3B;
+	margin-left: 50px;
+	margin-right: 125px;
+	
+}
+#neptunefaq
+{
+	border-radius: 30px;
+	background-color: #7B2A3B;
+	margin-left: 50px;
+	margin-right: 125px;
+	margin-bottom: 50px;
 }
 
